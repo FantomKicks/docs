@@ -1,0 +1,26 @@
+{
+  "name": "ftm_kicks_gitbook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "honkit build",
+    "dev": "honkit serve",
+    "help": "honkit --help",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedxco/ftm_kicks_gitbook.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pedxco/ftm_kicks_gitbook/issues"
+  },
+  "homepage": "https://github.com/pedxco/ftm_kicks_gitbook#readme",
+  "devDependencies": {
+    "honkit": "^3.6.22"
+  }
+}
