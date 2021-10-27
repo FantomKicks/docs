@@ -5,10 +5,10 @@ Gamers take on the role as a Soccer Club Manager. They are able to recruit a NFT
 
 
 
-#### The game consist of the following activities
+#### The main game activity
 
-1. x
-2. x
+1. Assemble an NFT Soccer Team
+2. Play in Matches, (Friendly, Tournaments, Cups)
 
 #### Your chances of winning a kick depends on some elements of the game
 
