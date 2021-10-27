@@ -12,7 +12,8 @@ Gamers take on the role as a Soccer Club Manager. They are able to recruit a NFT
 
 #### Your chances of winning a kick depends on some elements of the game
 
-1. The NFT player attributes
+1. The Team NFT player attributes
 2. Home or Away
+3. Random Factors, like Dice rolls
 
 
