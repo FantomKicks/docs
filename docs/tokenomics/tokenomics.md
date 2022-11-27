@@ -9,3 +9,4 @@ Cosmic Kicks will have 2 tokens
 To control reward inflation, there will be sinks like cafeteria, clinic,
 where a proportion of rewards tokens would be burned.
 
+
