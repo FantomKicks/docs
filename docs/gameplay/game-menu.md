@@ -23,7 +23,7 @@
 
 
 **Changing room: **
-- Where to see wins, achievements, trophies, all in the form of NFTs 
+- Where to see wins, achievements, trophies, in the form of NFTs 
 
 **Cafeteria :  **
 - Where the gamer can pay to replenish NFT footballers stamina 

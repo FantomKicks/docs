@@ -1,4 +1,7 @@
 # The Gameplay
+- Free to Play (Tutorial Mode)
+- Paid Campaign/PvP Mode
+
 
 ## Getting Started
 The aim of Fantom Kicks is to put together a soccer team, and play various matches to earn xKICKS rewards.
@@ -10,14 +13,13 @@ A new gamer starts with no team, and must head to the Academy to train young pla
 
 However, to train a youngster, gamer must earn xKICKS.
 
-To earn xKICKS, new gamer must
+To earn xKICKS, new gamer can
 - Do a Daily Check-In.
-- Complete some daily managerial and training tasks
+- Complete some daily Managerial and Training tasks
 - Stake KICKS tokens in the Bank
-- Purchase on an AMM (when its eventually listed)
 
 After recieving xKICKS, new user heads to the Academy to train a young player. 
-It takes 5 days to train a player at the Academy.
+It takes 1 day to train a player at the Academy. (can be adjusted)
 
 ### Stamina
 Each newly trained player comes with an amount of Stamina, and other atributes.
@@ -32,8 +34,7 @@ The football pitch is where the main gameplay happens
 The Gamer selects a team to play, picks a formation.
 The Gamer then clicks the "PLAY" button and waits for outcome. Clicking the "PLAY" button attracts a transaction fee in FTM 
 
-On winning a match, a user earns an amount of xKICKS  rewards . 
+On winning a match, a user earns an amount of xKICKS rewards . 
 
-xKICKS can be swapped for $KICKS governance tokens on an AMM.
 
 

@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
-  * [Play 2 Earn](intro/about-p2e.md)
+  * [GameFi](intro/about-gamefi.md)
   * [Why Fantom Chain](intro/why-fantom-chain.md)
   * [Requirements](intro/requirements.md)
 * [Overview](overview/README.md)

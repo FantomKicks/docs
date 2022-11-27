@@ -13,7 +13,7 @@ Used for:
 
 
 #### Note
-- Fantom Kicks does not sell xKICKS to players directly
+<!-- - Fantom Kicks does not sell xKICKS to players directly
 
-- Fantom Kicks does not provide liquidity for xKICKS
+- Fantom Kicks does not provide liquidity for xKICKS -->
 

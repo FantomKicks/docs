@@ -1,4 +1,4 @@
-# November 2021
+# xx2
 
 ### KICKS, xKICKS Token and NFTs
 * Launch KICKS and xKICKS tokens
