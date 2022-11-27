@@ -1,4 +1,4 @@
-## Play 2 Earn / GameFi
+## GameFi
 
 The global gaming market was reportedly worth $152 billion in 2019, and growing fast.
 

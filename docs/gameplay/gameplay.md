@@ -2,9 +2,12 @@
 - Free to Play (Tutorial Mode)
 - Paid Campaign/PvP Mode
 
+## Game Features
+- Economic Sim
+- RPG Elements
 
 ## Getting Started
-The aim of Fantom Kicks is to put together a soccer team, and play various matches to earn xKICKS rewards.
+The aim of Cosmic Kicks is to put together a soccer team, and play various matches to earn xKICKS rewards.
 
 Gamer can play friendly matches, enter a league, or a tournament.
 

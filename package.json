@@ -11,16 +11,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pedxco/ftm_kicks_gitbook.git"
+    "url": "git+https://git.com"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/pedxco/ftm_kicks_gitbook/issues"
+    "url": "https://git.com"
   },
-  "homepage": "https://github.com/pedxco/ftm_kicks_gitbook#readme",
+  "homepage": "",
   "devDependencies": {
-    "honkit": "^3.6.22"
+    "honkit": "^3.7.5"
   }
 }

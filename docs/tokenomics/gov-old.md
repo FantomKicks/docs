@@ -1,6 +1,6 @@
 ### Governance Token
 
-Token name: Fantom Kicks
+Token name: Cosmic Kicks
 
 Ticker : KICKS
 
